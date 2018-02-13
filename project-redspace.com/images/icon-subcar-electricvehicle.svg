@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="30px" viewBox="0 0 28 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>eco-car-charge</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.0.1---Chapter-2-(Body)" transform="translate(-1156.000000, -6032.000000)">
+            <g id="Group-16" transform="translate(339.000000, 5862.000000)">
+                <g id="eco-car-charge" transform="translate(815.000000, 170.000000)">
+                    <g id="Outline_Icons" transform="translate(2.666667, 0.000000)" stroke-linecap="round" stroke-width="1.33333333" stroke="#FFFFFF" stroke-linejoin="round">
+                        <g id="Group">
+                            <path d="M22.5733333,7.336 C24.6973333,9.60133333 26,12.648 26,16 C26,22.9946667 20.328,28.6666667 13.3333333,28.6666667 C6.33866667,28.6666667 0.666666667,22.9946667 0.666666667,16 C0.666666667,9.22666667 5.98133333,3.696 12.6666667,3.34933333" id="Shape"></path>
+                            <rect id="Rectangle-path" x="7.33333333" y="20.6666667" width="2.66666667" height="2"></rect>
+                            <rect id="Rectangle-path" x="16.6666667" y="20.6666667" width="2.66666667" height="2"></rect>
+                            <polygon id="Shape" points="20.6666667 20.6666667 20.6666667 16.6666667 18 15.3333333 8.66666667 15.3333333 6 16.6666667 6 20.6666667"></polygon>
+                            <polygon id="Shape" points="16.6666667 11.3333333 10 11.3333333 8.66666667 15.3333333 18 15.3333333"></polygon>
+                            <path d="M6,18 L9.33333333,18" id="Shape"></path>
+                            <path d="M17.3333333,18 L20.6666667,18" id="Shape"></path>
+                            <rect id="Rectangle-path" x="12.6666667" y="0.666666667" width="5.33333333" height="5.33333333"></rect>
+                            <path d="M18,2 L20.6666667,2" id="Shape"></path>
+                            <path d="M18,4.66666667 L20.6666667,4.66666667" id="Shape"></path>
+                        </g>
+                    </g>
+                    <g id="invisible_shape">
+                        <rect id="Rectangle-path" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

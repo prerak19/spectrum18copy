@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-volume-off-18px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic-volume-off-18px" transform="translate(-2.000000, -2.000000)">
+            <path d="M12.375,9 C12.375,7.67625 11.61,6.5325 10.5,5.98125 L10.5,7.63875 L12.34125,9.48 C12.36375,9.3225 12.375,9.16125 12.375,9 L12.375,9 Z M14.25,9 C14.25,9.705 14.09625,10.36875 13.845,10.98 L14.98125,12.11625 C15.46875,11.1825 15.75,10.125 15.75,9 C15.75,5.79 13.50375,3.105 10.5,2.4225 L10.5,3.97125 C12.6675,4.61625 14.25,6.6225 14.25,9 Z M3.20625,2.25 L2.25,3.20625 L5.79375,6.75 L2.25,6.75 L2.25,11.25 L5.25,11.25 L9,15 L9,9.95625 L12.19125,13.1475 C11.68875,13.53375 11.1225,13.845 10.5,14.0325 L10.5,15.58125 C11.53125,15.345 12.4725,14.8725 13.26375,14.22375 L14.79375,15.75 L15.75,14.79375 L9,8.04375 L3.20625,2.25 Z M9,3 L7.4325,4.5675 L9,6.135 L9,3 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <polygon id="Shape" points="0 0 18 0 18 18 0 18"></polygon>
+        </g>
+    </g>
+</svg>

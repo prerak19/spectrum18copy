@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>eco-fuel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.0.1---Chapter-2-(Body)" transform="translate(-788.000000, -6210.000000)">
+            <g id="Group-16" transform="translate(339.000000, 5862.000000)">
+                <g id="eco-fuel" transform="translate(448.000000, 346.000000)">
+                    <g id="Outline_Icons" transform="translate(1.333333, 2.666667)" stroke-linecap="round" stroke-width="1.33333333" stroke="#FFFFFF" stroke-linejoin="round">
+                        <g id="Group">
+                            <rect id="Rectangle-path" x="0.666666667" y="0.666666667" width="20" height="28"></rect>
+                            <polygon id="Shape" points="27.3333333 12.6666667 24.6666667 14 24.6666667 10 27.3333333 10"></polygon>
+                            <path d="M24.6666667,10 L24.6666667,8 C24.6666667,6.89733333 28.6666667,3.33333333 28.6666667,3.33333333" id="Shape"></path>
+                            <path d="M24.6666667,14 L24.6666667,18 C24.6666667,19.4733333 23.472,20.6666667 22,20.6666667 L20.708,20.6666667" id="Shape"></path>
+                            <path d="M0.666666667,11.3333333 L20.6666667,11.3333333" id="Shape"></path>
+                            <rect id="Rectangle-path" x="3.33333333" y="3.33333333" width="14.6666667" height="5.33333333"></rect>
+                            <path d="M8,16.6666667 C6.39466667,17.7386667 5.568,19.692 8,21.3333333 C9.33333333,24.6666667 11.8133333,23.7706667 13.2813333,22.224 C14.7493333,20.6773333 15.5173333,16.3626667 14.432,14 C12.088,15.768 10,15.3333333 8,16.6666667 Z" id="Shape"></path>
+                            <path d="M11.3333333,18.6666667 C7.33333333,20.6666667 5.33333333,26 5.33333333,26" id="Shape"></path>
+                        </g>
+                    </g>
+                    <g id="invisible_shape">
+                        <rect id="Rectangle-path" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

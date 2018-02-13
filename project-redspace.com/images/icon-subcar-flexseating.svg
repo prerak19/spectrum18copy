@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>tetris</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.0.1---Chapter-2-(Body)" transform="translate(-1154.000000, -6384.000000)">
+            <g id="Group-16" transform="translate(339.000000, 5862.000000)">
+                <g id="tetris" transform="translate(815.000000, 522.000000)">
+                    <g id="Outline_Icons" stroke-linecap="round" stroke-width="1.33333333" stroke="#FFFFFF" stroke-linejoin="round">
+                        <g id="Group">
+                            <polygon id="Shape" points="22 26 22 20.6666667 16.6666667 20.6666667 16.6666667 26 11.3333333 26 11.3333333 31.3333333 27.3333333 31.3333333 27.3333333 26"></polygon>
+                            <polygon id="Shape" points="26 6 26 0.666666667 20.6666667 0.666666667 20.6666667 11.3333333 26 11.3333333 26 16.6666667 31.3333333 16.6666667 31.3333333 6"></polygon>
+                            <polygon id="Shape" points="6 10 6 4.66666667 0.666666667 4.66666667 0.666666667 15.3333333 16.6666667 15.3333333 16.6666667 10"></polygon>
+                            <polygon id="Shape" points="0.666666667 15.3333333 0.666666667 20.6666667 11.3333333 20.6666667 11.3333333 26 16.6666667 26 16.6666667 15.3333333"></polygon>
+                            <rect id="Rectangle-path" x="0.666666667" y="20.6666667" width="10.6666667" height="10.6666667"></rect>
+                        </g>
+                    </g>
+                    <g id="invisible_shape">
+                        <rect id="Rectangle-path" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

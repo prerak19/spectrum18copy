@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>speed-gauge</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.0.1---Chapter-2-(Body)" transform="translate(-1154.000000, -6208.000000)">
+            <g id="Group-16" transform="translate(339.000000, 5862.000000)">
+                <g id="speed-gauge" transform="translate(815.000000, 346.000000)">
+                    <g id="Outline_Icons" stroke-linecap="round" stroke-width="1.33333333" stroke="#FFFFFF" stroke-linejoin="round">
+                        <g id="Group">
+                            <circle id="Oval" cx="16" cy="16" r="15.3333333"></circle>
+                            <circle id="Oval" cx="16" cy="16" r="2"></circle>
+                            <path d="M17.4133333,14.5853333 L24.012,7.98666667" id="Shape"></path>
+                            <path d="M3.25733333,15.3333333 L5.924,15.3333333" id="Shape"></path>
+                            <path d="M4.296,20.8466667 L6.76,19.8266667" id="Shape"></path>
+                            <path d="M27.7,20.848 L25.2373333,19.8266667" id="Shape"></path>
+                            <path d="M28.6653333,15.3333333 L26,15.332" id="Shape"></path>
+                            <path d="M27.7013333,11.1533333 L25.2373333,12.1733333" id="Shape"></path>
+                            <path d="M21.6866667,4.29866667 L20.6666667,6.76" id="Shape"></path>
+                            <path d="M16.6666667,3.58133333 L16.6666667,6.248" id="Shape"></path>
+                            <path d="M11.1533333,4.29733333 L12.172,6.76" id="Shape"></path>
+                            <path d="M7.044,7.04266667 L8.928,8.928" id="Shape"></path>
+                            <path d="M4.29733333,11.152 L6.76,12.1733333" id="Shape"></path>
+                            <rect id="Rectangle-path" x="10" y="22" width="12" height="4"></rect>
+                        </g>
+                    </g>
+                    <g id="invisible_shape">
+                        <rect id="Rectangle-path" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

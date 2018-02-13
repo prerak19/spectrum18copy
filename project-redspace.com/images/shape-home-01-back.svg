@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="637px" height="632px" viewBox="0 0 637 632" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.9452165%" y1="25.9925336%" x2="0%" y2="37.8339637%" id="linearGradient-1">
+            <stop stop-color="#EC565C" offset="0%"></stop>
+            <stop stop-color="#E7744B" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.0.0---Home-(Chapter-1-Tab)" transform="translate(-444.000000, -137.000000)" fill="url(#linearGradient-1)">
+            <g id="Shapes" transform="translate(371.000000, 53.000000)">
+                <path d="M145.484719,254.033252 L450.292896,96.3237233 C482.125538,85.0562675 510.553884,88.2233422 535.577935,105.824947 C560.601985,123.426553 624.936212,168.377203 728.580615,240.676898 C756.768368,261.680551 766.075093,286.461759 756.500791,315.02052 C746.926489,343.579282 702.41318,483.213887 622.960866,733.924335 C601.108028,796.770614 554.2686,794.215144 482.442583,726.257923 C374.703557,624.322091 198.454803,468.500537 149.764824,420.286125 C77.7392464,348.643135 76.312545,293.225511 145.484719,254.033252 Z" id="Shape-2" transform="translate(427.398013, 434.472301) rotate(-19.000000) translate(-427.398013, -434.472301) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

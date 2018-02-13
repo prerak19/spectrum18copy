@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="17px" viewBox="0 0 32 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>battery-eco</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.0.1---Chapter-2-(Body)" transform="translate(-784.000000, -6041.000000)">
+            <g id="Group-16" transform="translate(339.000000, 5862.000000)">
+                <g id="battery-eco" transform="translate(445.000000, 170.000000)">
+                    <g id="Outline_Icons_1_" transform="translate(0.000000, 9.333333)" stroke-linecap="round" stroke-width="1.33333333" stroke="#FFFFFF" stroke-linejoin="round">
+                        <g id="New_icons_1_">
+                            <g id="Group">
+                                <polyline id="Shape" points="12 15.3333333 27.3333333 15.3333333 27.3333333 11.3333333 31.3333333 11.3333333 31.3333333 4.66666667 27.3333333 4.66666667 27.3333333 0.666666667 24.6666667 0.666666667"></polyline>
+                                <polyline id="Shape" points="10 0.666666667 0.666666667 0.666666667 0.666666667 15.3333333 4.66666667 15.3333333"></polyline>
+                                <path d="M11.8626667,2.80533333 C9.59066667,4.20266667 8.58266667,6.384 12.3786667,8.74533333 C12.7666667,13.2026667 14.932,13.4386667 17.4413333,11.896 C19.952,10.3573333 22.516,4.872 21.9093333,1.33333333 C18.152,2.85866667 14.7053333,1.06266667 11.8626667,2.80533333 Z" id="Shape"></path>
+                                <path d="M7.21733333,14.9053333 C7.21733333,14.9053333 13.1653333,6.024 18.244,4.87333333" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Invisible_Shape">
+                        <rect id="Rectangle-path" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

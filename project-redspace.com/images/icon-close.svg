@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="11px" viewBox="0 0 11 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-menu-18px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation-Menu" transform="translate(-95.000000, -57.000000)">
+            <g id="Icon-Menu" transform="translate(81.000000, 42.000000)">
+                <g id="ic-menu-18px" transform="translate(11.000000, 11.000000)">
+                    <polygon id="Shape" points="0 0 18 0 18 18 0 18"></polygon>
+                    <path d="M4.06066017,14.9601551 L13.9601551,5.06066017 L12.8994949,4 L3,13.8994949 L4.06066017,14.9601551 Z M4.06066017,4 L3,5.06066017 L12.8994949,14.9601551 L13.9601551,13.8994949 L4.06066017,4 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
